@@ -141,7 +141,9 @@
   <ItemGroup>
     <ClCompile Include="program25_initials.cpp" />
     <ClCompile Include="program26_changingchar.cpp" />
-    <ClCompile Include="program26_stringsAndVectors.cpp" />
+    <ClCompile Include="program27_stringManipulation.cpp" />
+    <ClCompile Include="program28_stringsAndVectors.cpp" />
+    <ClCompile Include="program29_rockpaperscissors.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

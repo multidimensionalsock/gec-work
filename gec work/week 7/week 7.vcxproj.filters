@@ -21,7 +21,13 @@
     <ClCompile Include="program26_changingchar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="program26_stringsAndVectors.cpp">
+    <ClCompile Include="program29_rockpaperscissors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="program28_stringsAndVectors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="program27_stringManipulation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

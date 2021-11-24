@@ -1,1 +1,11 @@
-﻿
+﻿  program2_dataTypeSize.cpp
+  program3_definingVariables.cpp
+  program4_userDefinedVars.cpp
+  program6_area.cpp
+  program6_incrementDecrement.cpp
+  program7_converting.cpp
+  program8_pi.cpp
+  program9_trueAndFalse.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\dboth\OneDrive\Desktop\github\gec-work\gec work\Debug\week 2.exe : fatal error LNK1120: 1 unresolved externals
