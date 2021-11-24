@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="program25_initials.cpp" />
+    <ClCompile Include="program26_changingchar.cpp" />
+    <ClCompile Include="program26_stringsAndVectors.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

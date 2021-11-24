@@ -1,25 +1,8 @@
-#include <iostream>
-#include <string>
-
-int main() {
-	std::string name = '';
-	std::getline(syd::cin, name);
-
-	char firstInitial = '0';
-	char middleInitial = '0';
-	char lastInitial = '0';
-
-	for (int i = 0; i <= sizeof(name); i++) {
-		if (name[i] != ' ') {
-			if (firstInitial == '0') {
-				firstInitial = name[i];
-			}
-			else if (middleInitial == '0') {
-				middleInitial = name[i];
-			}
-			else if (lastInitial == '0'){
-				lastInitial = name[i];
-			}
-		}
-	}
-}
+//#include <iostream>
+//using namespace std;
+//
+//int main() {
+//	char name[6];
+//	cin.getline(name, 6);
+//	cout << name[0] << "\n" << name[2] << "\n" << name[4];
+//}

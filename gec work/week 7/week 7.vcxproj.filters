@@ -18,5 +18,11 @@
     <ClCompile Include="program25_initials.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="program26_changingchar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="program26_stringsAndVectors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
